@@ -8,7 +8,7 @@
 ![XCode](https://img.shields.io/badge/-XCode-090909?style=for-the-badge&logo=xcode&logoColor=47C5FB)
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
 ![FireBase](https://img.shields.io/badge/-FireBase-090909?style=for-the-badge&logo=FireBase&logoColor=E9D54D)
-![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=Swift&logoColor=blue)
+![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=circle&logoColor=blue)
 ![GCD](https://img.shields.io/badge/-GCD-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-090909?style=for-the-badge&logo=CocoaPods&logoColor=green)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=white)
@@ -17,5 +17,6 @@
 ## Social media
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Pashtigo_kzn)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=LinkedIn&logoColor=27A0D9)](paveltimofeev.m@gmail.com)
 
 
