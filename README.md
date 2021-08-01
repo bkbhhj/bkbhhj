@@ -1,16 +1,20 @@
-### Hi there 👋
 ![Header](https://github.com/bkbhhj/bkbhhj/blob/main/assets/TIMOFEEV%20PAVEL%20%20(1).png?raw=true)
-<!--
-**bkbhhj/bkbhhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# I'm iOS SOFTWARE ENGINEER (SWIFT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages and Tools
+![XCode](https://img.shields.io/badge/-XCode-090909?style=for-the-badge&logo=xcode&logoColor=47C5FB)
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
+![FireBase](https://img.shields.io/badge/-FireBase-090909?style=for-the-badge&logo=FireBase&logoColor=E9D54D)
+![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=Swift&logoColor=blue)
+![GCD](https://img.shields.io/badge/-GCD-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-090909?style=for-the-badge&logo=CocoaPods&logoColor=green)
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=white)
+![XCode](https://img.shields.io/badge/-UIKit-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
+
+## Social media
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Pashtigo_kzn)
+
+
