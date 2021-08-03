@@ -31,7 +31,7 @@
 
 
 
-## Social media
+# Social media
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Pashtigo_kzn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=27A0D9)](https://www.linkedin.com/in/pavel-timofeev-ab9a35218/
