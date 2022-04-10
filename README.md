@@ -5,8 +5,7 @@
 
 
 # 😄 About me
-✌️ My name is Pavel, I am 23 years old. I have been doing programming for about 2 years, trying out different technologies. I had engaged in numerical simulation СFD for 1 years used Open FOAM, Abaqus and Ansys Fluent in particular in C++, Fortran and Python for wroten log files and corrected equation.
-
+✌️ My name is Pavel, I am 24 years old. I have been doing programming for about 2,5 years, trying out different technologies. I had engaged in numerical simulation FOR for 1,5 years used OpenFOAM, Abaqus and Ansys Fluent, Matlab, Mathcad in particular in C++, Fortran and Python for wroten log files and corrected equation. 
 
 🎓I' m currently learn an algorithms by Stanford University on Coursera. 
 
