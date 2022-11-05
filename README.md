@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/62264409/127775863-1b05d141-0be9-45d1-a8e2-ab327ff00e02.png)
 
 
-# I'm IOS SOFTWARE ENGINEER (SWIFT)
+# I'm IOS SOFTWARE ENGINEER
 
 
 # 😄 About me
