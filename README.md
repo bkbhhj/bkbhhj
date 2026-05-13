@@ -6,8 +6,12 @@
 # 😄 About me
 **Senior iOS Developer with 5+ years** of experience building production iOS applications across **FinTech, corporate
 banking, and Web3 / digital asset products**, including banking platforms serving **10M+ active users**.
+
+
 Focused on **high-trust money flows**: transfers, FX, transaction signing, secure confirmations, and UX scenarios where
 mistakes are costly.
+
+
 Strong in **SwiftUI, UIKit, Swift 6 / strict concurrency**, modular architecture, reusable UI systems, CI/CD, and automated
 testing. Experienced in **owning end-to-end** feature delivery, mentoring iOS engineers, and improving engineering
 standards.
