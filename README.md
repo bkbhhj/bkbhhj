@@ -13,7 +13,6 @@ Strong in **SwiftUI, UIKit, Swift 6 / strict concurrency**, modular architecture
 testing. Experienced in **owning end-to-end** feature delivery, mentoring iOS engineers, and improving engineering
 standards.
 
-📲 At the present time, I am an IOS Developer with experience around 1,5 years.
 # Languages and Tools
 ![XCode](https://img.shields.io/badge/-XCode-090909?style=for-the-badge&logo=xcode&logoColor=47C5FB)
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
