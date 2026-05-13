@@ -1,8 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/62264409/127775863-1b05d141-0be9-45d1-a8e2-ab327ff00e02.png)
 
 
-# I'm IOS Developer
-
+# Senior iOS Developer | FinTech • Corporate Banking • Web3
 
 # 😄 About me
 **Senior iOS Developer with 5+ years** of experience building production iOS applications across **FinTech, corporate
