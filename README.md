@@ -1,11 +1,17 @@
 ![Header](https://user-images.githubusercontent.com/62264409/127775863-1b05d141-0be9-45d1-a8e2-ab327ff00e02.png)
 
 
-# I'm IOS SOFTWARE ENGINEER
+# I'm IOS Developer
 
 
 # 😄 About me
-✌️ My name is Pavel. I am 25 years old. I have been doing programming for over 4 years, trying out different technologies. I had engaged in numerical simulation for 2 years used OpenFOAM, Abaqus and Ansys Fluent, Matlab, Mathcad in particular in C++, Fortran and Python for written log files and corrected equations. 
+**Senior iOS Developer with 5+ years** of experience building production iOS applications across **FinTech, corporate
+banking, and Web3 / digital asset products**, including banking platforms serving **10M+ active users**.
+Focused on **high-trust money flows**: transfers, FX, transaction signing, secure confirmations, and UX scenarios where
+mistakes are costly.
+Strong in **SwiftUI, UIKit, Swift 6 / strict concurrency**, modular architecture, reusable UI systems, CI/CD, and automated
+testing. Experienced in **owning end-to-end** feature delivery, mentoring iOS engineers, and improving engineering
+standards.
 
 📲 At the present time, I am an IOS Developer with experience around 1,5 years.
 # Languages and Tools
